@@ -15,3 +15,6 @@ An Intelligent Travel Planner built in **Turbo Prolog 2.0** for **MCA Artificial
 mount c "C:\Users\dell\Downloads\Prolog-Binary-main"
 c:
 PROLOG
+
+DEMO VIDEO LINK:
+https://youtu.be/pKnubt1ZKIA
